@@ -1,0 +1,37 @@
+.calculator {
+    width: 250px;
+    margin: 0 auto;
+  }
+  
+  input[type='text'] {
+    width: 100%;
+    height: 50px;
+    font-size: 24px;
+    text-align: right;
+    margin-bottom: 10px;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  button {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    margin: 5px;
+  }
+  
+  .row {
+    display: flex;
+  }
+  .b1{
+    background-color: orange;
+  }
+  .b2{
+    background-color: orangered;
+    width: 250px;
+    margin: 0 auto;
+
+  }
